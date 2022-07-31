@@ -1,4 +1,4 @@
 # NFT Auction
 
-Method $ Tools:
+Method & Tools:
   - IERC721 for token transfer
